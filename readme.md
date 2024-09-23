@@ -1,6 +1,6 @@
 # Proyecto Final - Diseño y Análisis de Algoritmos (DAA)
 
-Este repositorio contiene el código fuente correspondiente a los problemas abordados en el proyecto final de la materia **Diseño y Análisis de Algoritmos (DAA)**.
+Este repositorio contiene el código fuente correspondiente a los problemas abordados en el proyecto final de la materia **Diseño y Análisis de Algoritmos (DAA)** de **Nahomi Bouza Rodríguez**.
 
 ## Estructura del Repositorio
 
